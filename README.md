@@ -16,7 +16,7 @@ incorrect IP addresses to client devices.
 
 ## Topology
 
-See: **topology-overview.png**
+![Network topology overview](topology-overview.png)
 
 The network simulates an enterprise campus LAN with:
 - Edge router
